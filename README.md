@@ -1,3 +1,10 @@
+# HackRx 6.0 - Bajaj Finserv Hackathon Project
+
+**Note:** This is a fork of the original team repository, which can be found here: [Original Project Link](https://github.com/kartikjaiswal99/Bajaj_DOC_Q-A). We worked on this as a team for the Bajaj Finserv HackRx 6.0 hackathon, where we achieved a rank of 76th out of 46,000+ teams.
+
+---
+### My Contributions:
+* **Prompt Engineering:** I developed and refined the structure-aware chunking algorithms and prompt engineering techniques that improved answer relevance by 25%.
 # Advanced Document Q&A System
 
 ![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)
@@ -297,4 +304,4 @@ graph TB
 ## HackRx 6.0
 
 This project is part of the HackRx 6.0 Bajaj Hackathon submission.
-This project is successfully completed by us securing excellent ranking all over India among 46000+ participants.
+This project is successfully completed by us securing excellent ranking all over India.
