@@ -297,3 +297,4 @@ graph TB
 ## HackRx 6.0
 
 This project is part of the HackRx 6.0 Bajaj Hackathon submission.
+This project is successfully completed by us securing excellent ranking all over India among 46000+ participants.
